@@ -1,6 +1,6 @@
 # Stable Diffusion
 
-Este repositorio contem um notebook exemplo para rodar Stable Diffusion 1.4 em uma GPU com 6GB de VRAM e um notebook para utilizar dentro do google collab.
+Este repositorio contem um notebook exemplo para rodar Stable Diffusion 1.4 em uma GPU com 6GB de VRAM e um notebook para utilizar dentro do google collab. Mais informações no pdf disponibilizado
 
 ![](images/fantasy_landscape.png) 
 
@@ -21,3 +21,7 @@ Notebook exemplificando uma implementação simples de stable diffusion
 Notebook para uso de txt2img no google collab
 
 ![](images/stable_diffusion_collab.png)
+
+## AUTOMATIC1111 Collab
+
+Notebook para rodar automatic 1111 no google collab. (Instavel)
