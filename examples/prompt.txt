@@ -1,0 +1,7 @@
+prompt: 
+a modified custom ([sports |muscle] car) with worn paint in a ([cyberpunk | futuristic] street), (dusty atmosphere), (masterpiece), hyper realistic, detailed, digital art, artstation
+negative prompt: blurry, bad style, poorly drawn, bad proportion, bad composition, ugly
+sampler: DPM++2M Karras
+sampling steps: 20
+CFG Scale: 7
+model: moonmix_utopia30
