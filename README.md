@@ -5,10 +5,16 @@ Email: tiagoluz.grad@gmail.com
 ## Links uteis
 
 <!-- ![https://github.com/Tiago-O-Luz/StableDiffusionKit/archive/refs/heads/main.zip](https://img.shields.io/badge/-download_repo-green?style=for-the-badge&logo=docusign&logoColor=white) -->
-# ![https://github.com/AUTOMATIC1111/stable-diffusion-webui](https://img.shields.io/badge/-automatic1111-blue?style=for-the-badge&logo=github&logoColor=white) ![https://github.com/cmdr2/stable-diffusion-ui#installation](https://img.shields.io/badge/-easydiffusion-blue?style=for-the-badge&logo=github&logoColor=white) ![https://huggingface.co/models?other=stable-diffusion](https://img.shields.io/badge/-Stable_Diffusion_models-blue?style=for-the-badge) ![https://huggingface.co/webui/ControlNet-modules-safetensors/tree/main](https://img.shields.io/badge/-optimized_control_net_models-blue?style=for-the-badge)
+
+[<img src="images/-automatic1111-blue.svg">](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+[<img src="images/-easydiffusion-blue.svg">](https://github.com/cmdr2/stable-diffusion-ui#installation)
+[<img src="images/-stable_diffusion_models-blue.svg">](https://huggingface.co/models?other=stable-diffusion)
+[<img src="images/-optimized_control_net_models-blue.svg">](https://huggingface.co/webui/ControlNet-modules-safetensors/tree/main)
 
 ## Material sobre stable diffusion
-# ![https://stable-diffusion-art.com](https://img.shields.io/badge/-Stable_Diffusion_material-red?style=for-the-badge) ![https://stable-diffusion-art.com/prompt-guide/](https://img.shields.io/badge/-how_to_write_good_prompts-red?style=for-the-badge) ![https://stable-diffusion-art.com/controlnet/](https://img.shields.io/badge/-control_net_guide-red?style=for-the-badge)
+[<img src="images/-Stable_Diffusion_material-red.svg">](https://stable-diffusion-art.com)
+[<img src="images/-how_to_write_good_prompts-red.svg">](https://stable-diffusion-art.com/prompt-guide/) 
+[<img src="images/-control_net_guide-red.svg">](https://stable-diffusion-art.com/controlnet/)
 
 
 Este repositorio contem um notebook exemplo para rodar Stable Diffusion 1.4 em uma GPU com 6GB de VRAM e um notebook para utilizar dentro do google collab. Mais informações no [PDF](Stable_Diffusion_Info.pdf) disponibilizado.
