@@ -12,7 +12,7 @@ Email: tiagoluz.grad@gmail.com
 [<img src="images/-optimized_control_net_models-blue.svg">](https://huggingface.co/webui/ControlNet-modules-safetensors/tree/main)
 
 ## Material sobre stable diffusion
-[<img src="images/-stable_Diffusion_material-red.svg">](https://stable-diffusion-art.com)
+[<img src="images/-stable_diffusion_material-red.svg">](https://stable-diffusion-art.com)
 [<img src="images/-how_to_write_good_prompts-red.svg">](https://stable-diffusion-art.com/prompt-guide/) 
 [<img src="images/-control_net_guide-red.svg">](https://stable-diffusion-art.com/controlnet/)
 
