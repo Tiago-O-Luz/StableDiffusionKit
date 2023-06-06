@@ -1,5 +1,8 @@
 # Stable Diffusion
-Este repositorio contem um notebook exemplo para rodar Stable Diffusion 1.4 em uma GPU com 6GB de VRAM e um notebook para utilizar dentro do google collab. Mais informações no [PDF](Stable_Diffusion_INFO.pdf) disponibilizado
+
+Email: tiagoluz.grad@gmail.com
+
+Este repositorio contem um notebook exemplo para rodar Stable Diffusion 1.4 em uma GPU com 6GB de VRAM e um notebook para utilizar dentro do google collab. Mais informações no [PDF](Stable_Diffusion_Info.pdf) disponibilizado.
 
 ![](images/fantasy_landscape.png) 
 
@@ -65,6 +68,22 @@ O peso de uma palavra no prompt pode ser ajustado com a seguinte sintaxe: (keywo
 
 ## Modelo utilizado
 Por se tratar de uma modelo open-source, a comunidade do Stable Diffusion criou centenas de modelos personalizados. Estes possuem forte influência nos resultados obtidos por um prompt e podem ajudar muito quando se procura gerar um tipo específico de imagem (disney, anime, hq, pintura, fotografia, etc.). Dois sites que podem ser visitados para encontrar modelos são o [hugging face](https://huggingface.co/models?other=stable-diffusion) e o [civtai](https://civitai.com).
+Alguns modelos populares são:
+
+- [Stable Diffusion 2.1](https://huggingface.co/stabilityai/stable-diffusion-2-1) - Modelo base do stable diffusion
+- [Dreamlike Photoreal 2.0](https://huggingface.co/dreamlike-art/dreamlike-photoreal-2.0) - Modelo para imagens fotorealistas
+
+- [Realistic Vision 1.4](https://huggingface.co/SG161222/Realistic_Vision_V1.4) - Modelo para imagens realistas
+
+- [Realistic Vision 2.0](https://civitai.com/models/4201/realistic-vision-v20) - Modelo para imagens realistas
+
+- [Dreamlike Anime 1.0](https://huggingface.co/dreamlike-art/dreamlike-anime-1.0) - Modelo treinado no estilo anime
+
+- [A-Zovya RPG Artist Tools](https://civitai.com/models/8124/a-zovya-rpg-artist-tools) - Modelo para artes de rpg
+
+- [Openjourney](https://civitai.com/models/86/openjourney): Modelo treinado em 124 mil imagens geradas pelo midjouney
+
+- [sd-pokemon-diffusers](https://huggingface.co/lambdalabs/sd-pokemon-diffusers) - Modelo treinado para gerar pokemons
 
 ## Sampler
 Os samples determinam o ruído em cada steps da geração e portanto influenciam fortemente no resultado final.
