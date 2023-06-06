@@ -2,6 +2,15 @@
 
 Email: tiagoluz.grad@gmail.com
 
+## Links uteis
+
+<!-- ![https://github.com/Tiago-O-Luz/StableDiffusionKit/archive/refs/heads/main.zip](https://img.shields.io/badge/-download_repo-green?style=for-the-badge&logo=docusign&logoColor=white) -->
+# ![https://github.com/AUTOMATIC1111/stable-diffusion-webui](https://img.shields.io/badge/-automatic1111-blue?style=for-the-badge&logo=github&logoColor=white) ![https://github.com/cmdr2/stable-diffusion-ui#installation](https://img.shields.io/badge/-easydiffusion-blue?style=for-the-badge&logo=github&logoColor=white) ![https://huggingface.co/models?other=stable-diffusion](https://img.shields.io/badge/-Stable_Diffusion_models-blue?style=for-the-badge) ![https://huggingface.co/webui/ControlNet-modules-safetensors/tree/main](https://img.shields.io/badge/-optimized_control_net_models-blue?style=for-the-badge)
+
+## Material sobre stable diffusion
+# ![https://stable-diffusion-art.com](https://img.shields.io/badge/-Stable_Diffusion_material-red?style=for-the-badge) ![https://stable-diffusion-art.com/prompt-guide/](https://img.shields.io/badge/-how_to_write_good_prompts-red?style=for-the-badge) ![https://stable-diffusion-art.com/controlnet/](https://img.shields.io/badge/-control_net_guide-red?style=for-the-badge)
+
+
 Este repositorio contem um notebook exemplo para rodar Stable Diffusion 1.4 em uma GPU com 6GB de VRAM e um notebook para utilizar dentro do google collab. Mais informações no [PDF](Stable_Diffusion_Info.pdf) disponibilizado.
 
 ![](images/fantasy_landscape.png) 
@@ -27,7 +36,7 @@ Notebook para uso de txt2img no google collab
 Notebook para rodar automatic 1111 pelo google collab. (Instavel sem versão paga)
 
 # Melhorando resultados do Stable Diffusion
-Esta parte está melhor explicada no pdf disponível. É recomendado sua leitura e consulta aos links encontrados lá 
+Esta parte está melhor explicada no pdf disponível. É recomendado sua leitura e consulta a este [artigo](https://stable-diffusion-art.com/prompt-guide/)
 ## Anatomia do prompt
 Para prompts pode-se dividir as palavras chaves nas seguintes categorias:
 
@@ -88,3 +97,15 @@ Alguns modelos populares são:
 ## Sampler
 Os samples determinam o ruído em cada steps da geração e portanto influenciam fortemente no resultado final.
 ![](images/samplers_compared.jpg)
+
+# Outro técnicas do Stable Diffusion
+
+# Inpainting
+Uma explicação de como utilizar inpainting pode ser encontrada [aqui](https://stable-diffusion-art.com/inpainting_basics/).
+
+# Controlnet 
+
+![](examples/muscle_car_controlnet_canny_input.png)
+![](examples/muscle_car_controlnet_canny.png)
+
+A melhor opção para executar o ControlNet é pelo automatic1111. A explicação completa de como fazer isso pode ser encontrada [aqui](https://stable-diffusion-art.com/controlnet/). Os modelos otimizados do ControlNet (necessários para rodar com 4GB de VRAM) podem ser encontrados aqui. É importante ressaltar que dependendo dos modelos utilizados, podem ocorrer problemas de memória, por isso é recomendado verificar essa questão. Uma opção é utilizar o “webui-user.bat” para lowvram disponível no repositório.
