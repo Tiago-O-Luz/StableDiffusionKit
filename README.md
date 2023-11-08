@@ -157,8 +157,7 @@ Os samples determinam o ruído em cada steps da geração e portanto influenciam
 Uma explicação de como utilizar inpainting pode ser encontrada [aqui](https://stable-diffusion-art.com/inpainting_basics/).
 
 # Controlnet 
+<img src="examples/muscle_car_img2img.png" width="256" height="256"> <img src="examples/muscle_car_controlnet_canny_input.png" width="256" height="256"> <img src="examples/muscle_car_controlnet_canny.png" width="256" height="256">
 
-![](examples/muscle_car_controlnet_canny_input.png)
-![](examples/muscle_car_controlnet_canny.png)
 
 A melhor opção para executar o ControlNet é pelo automatic1111. A explicação completa de como fazer isso pode ser encontrada [aqui](https://stable-diffusion-art.com/controlnet/). Os modelos otimizados do ControlNet (necessários para rodar com 4GB de VRAM) podem ser encontrados [aqui](https://huggingface.co/webui/ControlNet-modules-safetensors/tree/main). É importante ressaltar que dependendo dos modelos utilizados, podem ocorrer problemas de memória, por isso é recomendado utilizar o “webui-user.bat” para lowvram disponível no repositório.
