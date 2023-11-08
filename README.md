@@ -96,7 +96,7 @@ beautiful, epic, mystical, dark,
 
 iridescent gold, red, blue, etc. 
 
-cinematic lighting, dark lighting, bright lighting, etc.
+cinematic lighting, dark lighting, bright lighting, dark studio, rim lighting, two tone lighting, dimly lit, etc.
 </td>
  </tr>
 </table>
