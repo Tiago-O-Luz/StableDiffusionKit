@@ -29,13 +29,13 @@ Os notebooks podem ser executados sem outras dependências.
 
 Notebook exemplificando uma implementação simples de stable diffusion
 
-![](images/stable_diffusion_example.png) 
+<!--![](images/stable_diffusion_example.png)-->
 
 ## Stable Diffusion Collab
 
 Notebook para uso de txt2img no google collab
 
-![](images/stable_diffusion_collab.png)
+<!--![](images/stable_diffusion_collab.png)-->
 
 ## AUTOMATIC1111 Collab
 
@@ -55,11 +55,58 @@ Para prompts pode-se dividir as palavras chaves nas seguintes categorias:
     Additional details - Adjetivos e características que ajudam a especificar a imagem
     Color - Ajuda a controlar a cor das imagens que pode se manifestar nos tons da imagem ou nos objetos em si
     Lighting - Iluminação é muito importante na composição de imagens e portanto pode ter grande influência no resultado final.
+<table border="1">
+ <tr>
+    <td>  
+Categoria
+        
+Subject
+
+Medium
+
+Style
+
+Artist
+
+Website
+
+Resolution
+
+Additional details
+
+Color
+
+Lighting
+        <td>
+Sugestão de palavras
+
+Sujeito ou objeto principal da imagem. Quanto mais detalhes melhor será o resultado.
+
+illustration, digital art, digital painting, oil painting, photography, drawing, cgi, 3D, cartoon, film
+
+Realistic, Surrealist, Hyperrealism, Expressionist, Fantasy, Documentary
+
+Usa estilo de um artista como referência
+
+Pinterest, Behance, Artstation, Instagram
+
+high detailed, high definition, 4k, 8k, sharp focus 
+
+beautiful, epic, mystical, dark, 
+
+iridescent gold, red, blue, etc. 
+
+cinematic lighting, dark lighting, bright lighting, etc.
+</td>
+ </tr>
+</table>
+
 
 ## Prompt negativo
 No stable diffusion é possível adicionar um prompt negativo que informa o que é indesejado na imagem. Um prompt universal que pode ser utilizado é o seguinte:
 
     ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy, title, text
+
 
 ## Peso nas palavras chaves
 O peso de uma palavra no prompt pode ser ajustado com a seguinte sintaxe: (keyword:factor). Uma sintaxe alternativa é simplesmente utilizar parênteses que aumentam por uma fator de 1.1 ou colchetes que diminuem por um fator de 0.9. Esses fatores são cumulativos da seguinte forma:
