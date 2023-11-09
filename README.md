@@ -1,5 +1,7 @@
 # Stable Diffusion
 
+[Apresentação Dia 1](https://docs.google.com/presentation/d/1l_cZWE6Iga11CwqDaZIVfR1PNAGNBnHRKy5bDbH0gtA/edit?usp=sharing)
+
 Email: tiagoluz.grad@gmail.com
 
 ## Links uteis
