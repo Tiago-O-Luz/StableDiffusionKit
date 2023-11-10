@@ -2,6 +2,10 @@
 
 [Apresentação Dia 1](https://docs.google.com/presentation/d/1l_cZWE6Iga11CwqDaZIVfR1PNAGNBnHRKy5bDbH0gtA/edit?usp=sharing)
 
+[Apresentação Dia 2](https://docs.google.com/presentation/d/1IS4wucULHMOyZJPSzlzTD80v6PlZddIGxKIH3PZKXX0/edit?usp=sharing)
+
+[ControlNET Poses](https://drive.google.com/drive/folders/1yOx4WjpxgHkHMvtr6aQnRawrnOgNhL4o?usp=sharing)
+
 Email: tiagoluz.grad@gmail.com
 
 ## Links uteis
